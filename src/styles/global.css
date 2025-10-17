@@ -1,0 +1,29 @@
+@import "tailwindcss";
+
+@layer utilities {
+    .scrollbar {
+        scrollbar-width: thin;
+        scrollbar-color: #3f3f46 #09090b; /* thumb zinc-800, track zinc-950 */
+    }
+
+    .scrollbar::-webkit-scrollbar {
+        width: 8px;
+    }
+
+    .scrollbar::-webkit-scrollbar-track {
+        background: #09090b; /* zinc-950 */
+    }
+
+    .scrollbar::-webkit-scrollbar-thumb {
+        background-color: #3f3f46; /* zinc-800 */
+        border-radius: 8px;
+    }
+
+    .scrollbar::-webkit-scrollbar-thumb:hover {
+        background-color: #52525b; /* zinc-600 */
+    }
+}
+
+body {
+    webkit-font-smoothing: antialiased;
+}

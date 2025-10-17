@@ -1,0 +1,71 @@
+{
+    "courses": [
+        {
+            "id": 1,
+            "modules": [
+                {
+                    "id": "1",
+                    "title": "Iniciando com React",
+                    "lessons": [
+                        {
+                            "id": "JXAI_KX7gYE",
+                            "title": "CSS Modules",
+                            "duration": "13:45"
+                        },
+                        {
+                            "id": "V0RLu63dAZs",
+                            "title": "Estilização do Post",
+                            "duration": "13:45"
+                        },
+                        {
+                            "id": "FTXGb-fO7E8",
+                            "title": "Componente Header",
+                            "duration": "13:45"
+                        },
+                        {
+                            "id": "mPGHYRqX1HU",
+                            "title": "Componente Sidebar",
+                            "duration": "13:45"
+                        },
+                        {
+                            "id": "Zs2Lu9IR_Z8",
+                            "title": "CSS Global",
+                            "duration": "13:45"
+                        },
+                        {
+                            "id": "8UME045KpOA",
+                            "title": "Form de comentários",
+                            "duration": "13:45"
+                        }
+                    ]
+                },
+                {
+                    "id": "2",
+                    "title": "Estrutura da Aplicação",
+                    "lessons": [
+                        {
+                            "id": "eCTmGtCjcfU",
+                            "title": "Componente: Comment",
+                            "duration": "13:45"
+                        },
+                        {
+                            "id": "4wSFExm9Mt8",
+                            "title": "Responsividade",
+                            "duration": "13:45"
+                        },
+                        {
+                            "id": "deEg15mEx6c",
+                            "title": "Interações do JSX",
+                            "duration": "13:45"
+                        },
+                        {
+                            "id": "_yt_RSwUduU-DR",
+                            "title": "Utilizando estado",
+                            "duration": "13:45"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
